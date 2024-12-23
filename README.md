@@ -27,6 +27,8 @@ Bu dosyayı incelemek için aşağıdaki yazılımlardan birini kullanabilirsini
 - Google Sheets
 - LibreOffice Calc
 
+veya Sonradan yüklediğim PDF dosyasını inceleyerek Raporda neler olduğuna göz atabilirsiniz.
+
 ## Lisans
 
 Bu proje MIT lisansı altında sunulmaktadır.
